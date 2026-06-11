@@ -1,0 +1,1 @@
+添加README文件，测试是否自动更新到obsidian
