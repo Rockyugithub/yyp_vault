@@ -1,0 +1,8 @@
+# Obsidian
+
+.obsidian/cache/
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json
+
+# 插件缓存
+.obsidian/plugins/*/data.json
